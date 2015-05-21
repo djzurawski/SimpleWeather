@@ -80,7 +80,7 @@ public class MainActivity extends ActionBarActivity {
             lon = mLocation.getLongitude();
 
 
-            String apiKey = "0054ddc6f867a627fb6464b0c69c30dc";
+            String apiKey = <YOUR FORECAST.IO API KEY>
 
             String forecastURL = "https://api.forecast.io/forecast/" + apiKey + "/" + lat + "," + lon;
 
