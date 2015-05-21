@@ -12,3 +12,4 @@ with file browser should bring up install prompt. Make sure installing apps from
   - Geocode coordinates
   - Fix GPS issues
   - Add today's forecast
+  - Make UI pretty
